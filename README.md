@@ -82,8 +82,8 @@ The main features of LPC2148 include the following.
 ```
 NAVEEN S
 212222110030
-
-
+```
+```
 #include "main.h"
 void SystemClock_Config(void);
 static void MX_GPIO_Init(void);
